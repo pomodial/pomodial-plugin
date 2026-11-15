@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Sprint"
+  short_description: "Timed deep-work sprints for theses, essays and reports"
+  default_prompt: "Help me write my thesis introduction in focused sprints"

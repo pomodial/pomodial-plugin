@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pomodial": {
+      "type": "http",
+      "url": "https://www.pomodial.com/mcp"
+    }
+  }
+}

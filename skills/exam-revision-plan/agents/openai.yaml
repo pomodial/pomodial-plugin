@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exam Revision Plan"
+  short_description: "Turn an exam date into a day-by-day revision plan"
+  default_prompt: "My exam is on Friday. Make me a revision plan"

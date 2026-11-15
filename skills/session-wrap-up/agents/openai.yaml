@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Wrap-up"
+  short_description: "Finish a session, log what got done and set up the next one"
+  default_prompt: "I'm done with my session"

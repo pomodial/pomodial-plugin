@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Focus Blocks"
+  short_description: "Fit study or work blocks into a time window and start them"
+  default_prompt: "Plan Pomodoros to revise for my biology exam from 2 to 6pm"

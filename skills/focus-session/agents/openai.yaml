@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start a Focus Session"
+  short_description: "Start a Pomodoro or focus timer with a clear intention"
+  default_prompt: "Start a 25-minute focus session on my report"

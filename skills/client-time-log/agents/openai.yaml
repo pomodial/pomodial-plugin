@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Time Log"
+  short_description: "Track focused client work and total hours per client"
+  default_prompt: "Start 50 minutes on the Acme proposal and log it to Acme"

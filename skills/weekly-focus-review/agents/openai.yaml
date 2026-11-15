@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Focus Review"
+  short_description: "See what you studied or worked on, your streak and patterns"
+  default_prompt: "What did I get done this week?"

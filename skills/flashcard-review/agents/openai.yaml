@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flashcard & Language Review"
+  short_description: "Short timed sprints for Anki, flashcards and vocabulary"
+  default_prompt: "Start a 20-minute Anki review, I have 150 cards due"

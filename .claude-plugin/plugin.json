@@ -1,0 +1,20 @@
+{
+  "name": "pomodial",
+  "displayName": "PomoDial",
+  "version": "1.0.0",
+  "description": "Focus timer that saves what you worked on. Start Pomodoro and focus sessions from the conversation, plan study or work blocks around your day, run revision, flashcard and writing sprints, and review your focus history and streak.",
+  "author": {
+    "name": "James Weldon",
+    "url": "https://www.pomodial.com"
+  },
+  "homepage": "https://www.pomodial.com",
+  "license": "MIT",
+  "keywords": [
+    "pomodoro",
+    "focus",
+    "study",
+    "productivity",
+    "time-tracking"
+  ],
+  "privacyPolicyUrl": "https://www.pomodial.com/privacy"
+}

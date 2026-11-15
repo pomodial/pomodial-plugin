@@ -1,0 +1,49 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "app-6a6b175c1a08819193cf7d8472ad4e69",
+  "version": "1.2.0",
+  "description": "Focus timer that saves what you worked on. Run pomodoro, countdown and interval timers in a live card, plan focus blocks into a time window, and review your focus history.",
+  "author": {
+    "name": "James Weldon",
+    "url": "https://www.pomodial.com"
+  },
+  "homepage": "https://www.pomodial.com",
+  "keywords": [
+    "pomodoro",
+    "focus timer",
+    "study timer",
+    "productivity",
+    "study",
+    "revision",
+    "flashcards",
+    "deep work",
+    "time tracking"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "PomoDial",
+        "shortDescription": "Focus timer with saved history",
+        "longDescription": "PomoDial is a focus timer built around one habit: say what you're working on before the clock starts. Ask for a 25/5 or 50/10 pomodoro, a countdown, or a work/rest interval timer, and a live timer card appears in the conversation with the PomoDial dial, the current block and its intention, what's next, and Start, Pause, Skip and Reset buttons. Plan a session from a time window, such as \"I have 3 hours until 5pm\", and PomoDial fits whole focus blocks around your breaks with clock times and a calendar file. Every session is saved to your PomoDial account, so you can ask what you got done this week and see your intentions, streaks and total focus time. Built-in skills help you plan revision for an exam, run flashcard and language review sprints, write a thesis or report in timed sprints, wrap up sessions, review your week, and log focused time per client.",
+        "developerName": "James Weldon",
+        "category": "Productivity",
+        "websiteURL": "https://www.pomodial.com",
+        "privacyPolicyURL": "https://www.pomodial.com/privacy",
+        "termsOfServiceURL": "https://www.pomodial.com/terms",
+        "supportURL": "https://www.pomodial.com/support",
+        "capabilities": [
+          "Interactive",
+          "Read",
+          "Write"
+        ],
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/icon.png",
+        "defaultPrompt": [
+          "Plan Pomodoros to revise for my biology exam from 2 to 6pm",
+          "Start a 20-minute Anki review, I have 150 cards due",
+          "What did I get done this week?"
+        ]
+      }
+    }
+  }
+}
